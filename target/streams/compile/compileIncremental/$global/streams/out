@@ -1,0 +1,20 @@
+[0m[[0m[0mdebug[0m] [0m[0mFull compilation, no sources in previous analysis.[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll sources are invalidated.[0m
+[0m[[0m[0mdebug[0m] [0m[0mRecompiling all 12 sources: invalidated sources (12) exceeded 50.0% of all sources[0m
+[0m[[0m[0minfo[0m] [0m[0mCompiling 12 Scala sources to C:\Users\Maduranga.J\Desktop\scala_pro\scala_basic_tutorial\target\scala-2.13\classes ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting org.scala-sbt:compiler-bridge_2.13:1.1.0:compile for Scala 2.13.2[0m
+[0m[[0m[0minfo[0m] [0m[0mAttempting to fetch org.scala-sbt:compiler-bridge_2.13:1.1.0.[0m
+[0m[[0m[33mwarn[0m] [0m[0m	module not found: org.scala-sbt#compiler-bridge_2.13;1.1.0[0m
+[0m[[0m[33mwarn[0m] [0m[0m==== local: tried[0m
+[0m[[0m[33mwarn[0m] [0m[0m  C:\Users\Maduranga.J\.ivy2\local\org.scala-sbt\compiler-bridge_2.13\1.1.0\ivys\ivy.xml[0m
+[0m[[0m[33mwarn[0m] [0m[0m==== public: tried[0m
+[0m[[0m[33mwarn[0m] [0m[0m  https://repo1.maven.org/maven2/org/scala-sbt/compiler-bridge_2.13/1.1.0/compiler-bridge_2.13-1.1.0.pom[0m
+[0m[[0m[33mwarn[0m] [0m[0m==== local-preloaded-ivy: tried[0m
+[0m[[0m[33mwarn[0m] [0m[0m  C:\Users\Maduranga.J\.sbt\preloaded\org.scala-sbt\compiler-bridge_2.13\1.1.0\ivys\ivy.xml[0m
+[0m[[0m[33mwarn[0m] [0m[0m==== local-preloaded: tried[0m
+[0m[[0m[33mwarn[0m] [0m[0m  file:/C:/Users/Maduranga.J/.sbt/preloaded/org/scala-sbt/compiler-bridge_2.13/1.1.0/compiler-bridge_2.13-1.1.0.pom[0m
+[0m[[0m[33mwarn[0m] [0m[0m	::::::::::::::::::::::::::::::::::::::::::::::[0m
+[0m[[0m[33mwarn[0m] [0m[0m	::          UNRESOLVED DEPENDENCIES         ::[0m
+[0m[[0m[33mwarn[0m] [0m[0m	::::::::::::::::::::::::::::::::::::::::::::::[0m
+[0m[[0m[33mwarn[0m] [0m[0m	:: org.scala-sbt#compiler-bridge_2.13;1.1.0: not found[0m
+[0m[[0m[33mwarn[0m] [0m[0m	::::::::::::::::::::::::::::::::::::::::::::::[0m
