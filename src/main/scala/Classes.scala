@@ -39,3 +39,7 @@ object Classes {
 
   }
 }
+/**
+ *case class is a class + companion object + some additional functions in it
+ *
+ */
