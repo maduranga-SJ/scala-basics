@@ -41,5 +41,6 @@ object Classes {
 }
 /**
  *case class is a class + companion object + some additional functions in it
+ * those aditional functins can be viewed by [cmd ] javap file.class
  *
  */
