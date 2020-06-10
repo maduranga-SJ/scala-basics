@@ -21,13 +21,13 @@ abstract class DatabaseDriver {
   // some database stuff
 }
 
-object DatabaseDriver {
-  def apply(config: Configuration) = config match {
-    case "MYSQL" =>
-    case "PSQL" =>
-    case _ =>
-  }
-}
+//object DatabaseDriver {
+//  def apply(config: Configuration) = config match {
+//    case "MYSQL" =>
+//    case "PSQL" =>
+//    case _ =>
+//  }
+//}
 
 /**
  * anonymous functions also works as apply function
@@ -62,7 +62,7 @@ object ApplyMain{
     val dbConfig = new Configuration {
       override def getAppConfigurationEntry(name: String): Array[AppConfigurationEntry] = ???
     }
-    val mydatabase = DatabaseDriver(dbConfig)
+//    val mydatabase = DatabaseDriver(dbConfig)
     //----------------------------------------------
     val amazing = new Amazing()
     amazing("world")
